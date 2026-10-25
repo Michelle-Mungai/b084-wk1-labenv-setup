@@ -217,7 +217,7 @@ This laboratory is intended strictly for education purposes only. All tools and 
 **Michelle Mungai**\
 Cybersecurity Professional B084
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/michellemungai/)
+LinkedIn: (https://www.linkedin.com/in/michellemungai/)
 
 ---
 
