@@ -72,7 +72,6 @@ It can be used for activities such as:
 | 🧠 Kali RAM        | 2048 MB            |
 | 🌐 Virtual Network | NAT Network        |
 | 📡 Network Address | 10.0.0.0/24        |
-| 🐧 Kali IP Address | 10.0.0.2/24        |
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 10.0.0.1           |
 
@@ -109,7 +108,7 @@ A static IPv4 address is set on Kali's network connection so the machine has a c
 Example configuration:
 
 ```text
-IP Address: 10.0.0.2/24
+IP Address: 10.0.0.1/24
 Gateway: 10.0.0.1
 DNS: 10.0.0.1
 ```
