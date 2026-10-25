@@ -108,7 +108,7 @@ A static IPv4 address is set on Kali's network connection so the machine has a c
 Example configuration:
 
 ```text
-IP Address: 10.0.0.1/24
+IP Address: 10.0.0.2/24
 Gateway: 10.0.0.1
 DNS: 10.0.0.1
 ```
